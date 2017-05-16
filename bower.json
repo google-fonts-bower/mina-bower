@@ -1,0 +1,17 @@
+{
+    "name": "mina-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Suman Bhandary, Natanael Gama, Mooniak"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/mina-bower.git"
+    },
+    "description": "Mina font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
